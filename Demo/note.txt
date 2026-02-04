@@ -1,0 +1,24 @@
+🔐 Encrypt anything, then Decrypt by providing a required key.
+
+
+It is an Encryption and Decryption tool written in python which is used to encrypt any type of file 
+based on AES Standards and the files that are encrypted using this script can also able to decrypt it.
+
+AES Cryptographic Tool
+AES Stands for Advanced Encryption Standards. A Simple Encryption and Decryption Cryptographic tool for encrypting and decrypting our files. This tool can able to encrypt (Images/Videos/Audios/Text/) and otherfiles as well. 
+The files that are encrypted using this tool can only able to decrypt other than that it can't able to decrypt other encrypted files. We can encrypt and decrypt any type of file using this tool.
+
+CryptoPocket
+Save your access credentials, encrypt text messages or local files and then decrypt them at any time, providing the desired key, with this simple program all this is possible. No installation required, portable.
+
+Nowadays, we have to manage so many accounts that keeping track of all their login details is a truly challenging task. Unless you want to use the same password on every single website, you may need a software utility to help you out.
+
+CryptoPocket is a relatively simple application that not only enables you to encrypt and store all your credentials, but can also encode text and secure files, as well as decrypt them.
+
+
+Store your account credentials in a secure manner
+CryptoPocket allows you to create a local database in which all your login details are stored in an encrypted form. You can enter each account’s name, email address, URL, username and password, as well as provide the encryption key.
+
+Once an entry has been created, the username and password can only be viewed if the original key is available.
+
+You can also search for specific items based on their description, associated email or URL, but the entries cannot be sorted.
