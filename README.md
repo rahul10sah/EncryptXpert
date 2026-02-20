@@ -121,7 +121,7 @@ To run tests, run the following command
 
 ```bash
 python -m unittest discover
-
+```
 
 
 ## ⚠️ Warning: 
@@ -146,13 +146,10 @@ Contributions are always welcome!
 See `contributing.md` for ways to get started.
 
 
-
 ## 🚀 About Me
 I'm Self-taught Programmer, Security Researcher ,Technophile And an Open-Source Enthusiast, Maintainer and National level hackathon winner🥇 🇨🇳.
-
 
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
