@@ -123,6 +123,7 @@ To run tests, run the following command
 python -m unittest discover
 
 
+
 ## ⚠️ Warning: 
 Please note that EncryptXpert may encounter occasional issues with the built-in key database system, leading to database failures. Additionally, file integrity may occasionally be compromised during the encryption or decryption process. While efforts are ongoing to address these issues, users are advised to maintain backups of their encrypted files and exercise caution when relying solely on EncryptXpert for data protection.
 
@@ -145,8 +146,10 @@ Contributions are always welcome!
 See `contributing.md` for ways to get started.
 
 
+
 ## 🚀 About Me
 I'm Self-taught Programmer, Security Researcher ,Technophile And an Open-Source Enthusiast, Maintainer and National level hackathon winner🥇 🇨🇳.
+
 
 
 ## License
